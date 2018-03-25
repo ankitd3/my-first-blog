@@ -1,5 +1,4 @@
 #!/usr/bin/env python 
-#yo boy
 import os
 import sys
 
